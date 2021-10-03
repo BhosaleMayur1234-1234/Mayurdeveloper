@@ -3,5 +3,6 @@ class Pali
 main
 {
 logies here is find plindrome number
+shubam loies here put
 }
 }
