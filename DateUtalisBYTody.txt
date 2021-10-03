@@ -1,0 +1,7 @@
+class Date
+{
+main
+{
+Date d=new UtliasDate();
+}
+}
