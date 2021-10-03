@@ -1,0 +1,7 @@
+class Pali
+{
+main
+{
+logies here is find plindrome number
+}
+}
